@@ -1,6 +1,6 @@
 'use strict'
 
-// Made by Zaseth, Zaseth#3300 on Discord
+
 
 const { prompt } = require('inquirer')
 const { write } = require('clipboardy')
