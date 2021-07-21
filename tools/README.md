@@ -1,6 +1,6 @@
 Made by Ghøst-Slave
 
-# WCodeG/ACodeG 
+# WCodeG
 
 Generates Sherwood Dungeon codes (which copies to your clipboard ^^) for weapons, amulets, rings and avatar strings. I included images of all items.
 
@@ -12,5 +12,4 @@ Generates Sherwood Dungeon codes (which copies to your clipboard ^^) for weapons
 
 ```
 node WCodeG.js
-node ACodeG.js
 ```
